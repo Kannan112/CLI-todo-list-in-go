@@ -2,6 +2,8 @@
 
 ## Overview
 This is a Command-Line Interface (CLI) application built in Golang to help you manage and track your daily tasks.
+![Screenshot from 2023-11-09 16-54-29](https://github.com/Kannan112/CLI-todo-list-in-go/assets/109995096/7887b525-94b8-46af-82af-ada1783517db)
+
 
 ## Features
 - Add tasks for the day
